@@ -1,0 +1,16 @@
+D:\Assessment\SocketServer\SocketServer\bin\Debug\net10.0\Data.json
+D:\Assessment\SocketServer\SocketServer\bin\Debug\net10.0\SocketServer.exe
+D:\Assessment\SocketServer\SocketServer\bin\Debug\net10.0\SocketServer.deps.json
+D:\Assessment\SocketServer\SocketServer\bin\Debug\net10.0\SocketServer.runtimeconfig.json
+D:\Assessment\SocketServer\SocketServer\bin\Debug\net10.0\SocketServer.dll
+D:\Assessment\SocketServer\SocketServer\bin\Debug\net10.0\SocketServer.pdb
+D:\Assessment\SocketServer\SocketServer\obj\Debug\net10.0\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assessment\SocketServer\SocketServer\obj\Debug\net10.0\SocketServer.AssemblyInfoInputs.cache
+D:\Assessment\SocketServer\SocketServer\obj\Debug\net10.0\SocketServer.AssemblyInfo.cs
+D:\Assessment\SocketServer\SocketServer\obj\Debug\net10.0\SocketServer.csproj.CoreCompileInputs.cache
+D:\Assessment\SocketServer\SocketServer\obj\Debug\net10.0\SocketServer.dll
+D:\Assessment\SocketServer\SocketServer\obj\Debug\net10.0\refint\SocketServer.dll
+D:\Assessment\SocketServer\SocketServer\obj\Debug\net10.0\SocketServer.pdb
+D:\Assessment\SocketServer\SocketServer\obj\Debug\net10.0\SocketServer.genruntimeconfig.cache
+D:\Assessment\SocketServer\SocketServer\obj\Debug\net10.0\ref\SocketServer.dll
+D:\Assessment\SocketServer\SocketServer\obj\Debug\net10.0\SocketSe.25F2A651.Up2Date
